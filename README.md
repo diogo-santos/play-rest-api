@@ -17,6 +17,4 @@ sbt run
 ```
 
 ## Test the App
-Now that the app is running, visit
-
-http://localhost:9000 in order to see the landing page and API info
+Now that the app is running, visit http://localhost:9000 in order to see the landing page and API info
