@@ -1,6 +1,4 @@
 # play-mysql-audit
-
-## What was build
 Demo REST API using Play framework and Java that receives a post in Json format and stores into the H2 database
 
 ## What you'll need
